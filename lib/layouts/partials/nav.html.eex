@@ -1,0 +1,10 @@
+<div>
+  
+</div>
+<nav class="bg-blue-800 ">
+  <a href="/">Inicio</a>
+  <a href="/departamentos/">Departamentos</a>
+  <a href="/reglamento/">Reglamento</a>
+  <a href="/area/">Area</a>
+</nav>
+
