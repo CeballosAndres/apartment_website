@@ -1,13 +1,13 @@
 @import "tailwindcss/base";
 @layer base {
-  h1 {
-    @apply text-2xl;
-  }
   h2 {
-    @apply text-xl;
+    @apply mb-4 text-2xl font-bold tracking-tight text-gray-900 lg:font-extrabold lg:text-4xl lg:leading-snug dark:text-white lg:text-center 2xl:px-48
   }
-  h3 {
-    @apply text-lg;
+  p {
+    @apply mb-4 text-lg font-normal text-gray-500 dark:text-gray-400 lg:text-center lg:text-xl xl:px-60
+  }
+  ol {
+    @apply list-decimal pl-4 mb-1 text-lg font-normal text-gray-500 dark:text-gray-400 lg:text-center lg:text-xl xl:px-60
   }
 }
 @import "tailwindcss/components";

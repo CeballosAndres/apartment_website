@@ -16,15 +16,14 @@ config :griffin_ssg,
 config :esbuild,
   version: "0.14.41",
   default: [
-    args:
-      ~w(app.js --bundle --target=es2017 --outdir=../_site/assets),
+    args: ~w(app.js --bundle --target=es2017 --outdir=../_site/assets),
     cd: Path.expand("../assets", __DIR__),
     env: %{"NODE_PATH" => Path.expand("../deps", __DIR__)}
   ]
 
 # Configure tailwind (the version is required)
 config :tailwind,
-  version: "3.2.4",
+  version: "3.4.1",
   default: [
     args: ~w(
       --config=tailwind.config.js
@@ -33,4 +32,3 @@ config :tailwind,
     ),
     cd: Path.expand("../assets", __DIR__)
   ]
-

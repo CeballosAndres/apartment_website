@@ -3,16 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= @title %></title>
+    <title>Departamentos Manzanillo &nbsp|&nbsp<%= @title %></title>
     <link rel="stylesheet" href="/assets/app.css">
-    <script src="/assets/app.js"></script>
   </head>
   <body>
-    <%= @partials.nav %>
-    <h1><%= @title %></h1>
-    <section>
-      <%= @content %>
-    </section>
-    <%= @partials.footer %>
+    <div class="flex flex-col min-h-screen bg-white dark:bg-gray-900">
+      <%= @partials.nav %>
+      <main class="grow">
+        <section class="py-4 bg-white dark:bg-gray-900 lg:pt-12 lg:pb-16">
+          <div class="px-4 mx-auto max-w-8xl lg:px-4 lg:text-center">
+            <%= @content %>
+          </div>
+        </section>
+      </main>
+      <%= @partials.footer %>
+    </div>
+    <script src="/assets/app.js"></script>
   </body>
 </html>

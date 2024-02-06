@@ -24,4 +24,5 @@ apartment_website-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
-_site/
+/_site/
+/node_modules/

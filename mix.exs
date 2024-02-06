@@ -15,9 +15,9 @@ defmodule ApartmentWebsite.MixProject do
   defp aliases() do
     [
       build: [
-        "grf.build", 
-        "tailwind default --minify", 
-        "esbuild default --minify --loader:.jpg=file"
+        "grf.build",
+        "tailwind default --minify",
+        "esbuild default --minify"
       ]
     ]
   end
@@ -34,8 +34,7 @@ defmodule ApartmentWebsite.MixProject do
     [
       {:griffin_ssg, "~> 0.3"},
       {:esbuild, "~> 0.5"},
-      {:tailwind, "~> 0.1.8"}
+      {:tailwind, "~> 0.1"}
     ]
   end
-
 end
