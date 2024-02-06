@@ -1,11 +1,11 @@
 <div class="sticky top-0 z-40 flex-none mx-auto w-full bg-white dark:bg-gray-900 ">
-  <div id="banner" tabindex="-1" class="z-50 flex justify-center w-full px-4 py-3 border border-b border-gray-200 bg-gray-50 dark:border-gray-600 lg:py-4 dark:bg-gray-700">
+  <div id="banner" tabindex="-1" class="z-50 flex justify-center w-full px-4 py-3 border-b border-gray-200 bg-gray-50 dark:border-gray-600 lg:py-4 dark:bg-gray-700">
     <div class="items-center md:flex">
       <a href="https://www.facebook.com/departamentoscvmanzanillo" class="inline-flex items-center ml-2 text-sm font-medium text-blue-600 md:ml-2 dark:text-blue-500 hover:underline">Facebook</a>
       <span class="text-sm font-medium text-gray-900 md:my-0 dark:text-white ml-2">|</span>
       <a href="whatsapp://send?text=Hola. Me interesa información sobre los departamentos Manzanillo!&phone=+523141035251" class="inline-flex items-center ml-2 text-sm font-medium text-blue-600 md:ml-2 dark:text-blue-500 hover:underline">WhatsApp</a>
       <span class="text-sm font-medium text-gray-900 md:my-0 dark:text-white ml-2">|</span>
-      <a href="tel:+523141035251" class="inline-flex items-center ml-2 text-sm font-medium text-blue-600 md:ml-2 dark:text-blue-500 hover:underline">+52 (314) 103-5251</a>
+      <a href="tel:+523141035251" class="inline-flex items-center ml-2 text-sm font-medium text-blue-600 md:ml-2 dark:text-blue-500 hover:underline">+52(314) 103 5251</a>
     </div>
   </div>
   <nav class="bg-white border-gray-200 dark:bg-gray-900">
