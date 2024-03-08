@@ -16,5 +16,5 @@ Excelente, rápido y seguro traslado en automóvil propio, taxi o autobús urban
   
 Ir a cualesquier punto de la ciudad y puerto de Manzanillo de compras, diversión o recreación lo haces en minutos.  
   
-Hospédate con nosotros! no te arrepentirás y gozarás a lo grande te lo garantizamos ... Bienvenido a la “ Perla del Pacífico Mexicano”, Bienvenido a Tu Casa.  
+Hospédate con nosotros! no te arrepentirás y gozarás a lo grande te lo garantizamos ... Bienvenido a "la Perla del Pacífico Mexicano”, Bienvenido a Tu Casa!
 
