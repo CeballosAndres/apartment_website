@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-## Otros aspectos destacables
+## Disposiciones a considersr 
   
  
   
