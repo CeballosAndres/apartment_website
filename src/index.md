@@ -6,7 +6,7 @@ layout: base
 ![main](/assets/images/principal.jpeg)
 ## Ubicación
 
-Los departamentos se ubican frente al Andador a la playa y el Nuevo Tortuguero; a una cuadra está el boulevard costero “Miguel de la Madrid” que es la principal vía de Manzanillo.  
+Los departamentos se ubican frente al Andador a la playa y el Nuevo Tortuguero; a una cuadra está el boulevard costero “Miguel de la Madrid".
   
 La playa es muy limpia ideal para practicar el Surf, bañarse con precaución, practicar la pesca, caminar por su “dorada” arena, broncear o leer un buen libro; tomar una fantástica selfie, foto y video... sentirás la brisa y el “olor” del mar y escucharás el reventar de sus impresionantes olas.  
   
