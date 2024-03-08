@@ -8,7 +8,7 @@ layout: base
 
 Los departamentos se ubican frente al Andador a la playa y el Nuevo Tortuguero; a una cuadra está el boulevard costero “Miguel de la Madrid".
   
-La playa ( Playa Azul) es muy limpia;  ideal para practicar el Surf, bañarse con precaución, pescar con caña; caminar por su “dorada” arena, broncear o leer un buen libro; tomar una fantástica selfie, foto y video... sentirás la brisa y el “olor” del mar y escucharás el reventar de sus impresionantes olas.  
+La playa ( Playa Azul) es muy limpia;  ideal para practicar el Surf, bañarse con precaución dado su fuerte oleaje y corrientes marinas; pescar con caña; caminar por su “dorada” arena, broncear o leer un buen libro; tomar una fantástica selfie, foto y video... sentirás la brisa y el “olor” del mar y escucharás el reventar de sus impresionantes olas.  
   
 Su excelente ubicación facilita que todo lo tengas muy cerca, casi a la mano: tiendas Oxxo, Walmart, Soriana, Kiosco, la Comer; la distinguida Plaza Punto Bahía, salas de cine, restaurantes de comida rápida, colimense, nacional e internacional y más servicios.  
   
