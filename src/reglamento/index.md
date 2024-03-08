@@ -2,8 +2,8 @@
 layout: base
 ---
 1. La hora de llegada al departamento es a partir de las 14:00 pm u otro horario posterior que indique el huésped.
-2. La hora máxima de salida: 12:00 pm u otro horario anterior que señale el huésped.
-3. Numero de huéspedes permitido hasta 4 (cuatro) entre adultos y niños.
+2. La hora máxima de salida: 11:00 AM u otro horario anterior que señale el huésped.
+3. Número de huéspedes permitido hasta 4 (cuatro) entre adultos y niños.
 4. No se autoriza la celebración de fiestas entendidas como tal, lo que no es impedimento de la sana convivencia y esparcimiento de los huéspedes.
 5. No de admiten mascotas (perros, gatos u otros).
 6. No se permite fumar dentro del departamento.
