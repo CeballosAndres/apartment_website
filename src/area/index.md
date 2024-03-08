@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-## Disposiciones a considersr 
+## Disposiciones a considerar
   
  
   
