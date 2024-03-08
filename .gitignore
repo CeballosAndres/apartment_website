@@ -26,3 +26,4 @@ apartment_website-*.tar
 /tmp/
 /_site/
 /node_modules/
+/src/.obsidian/

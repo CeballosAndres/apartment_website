@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/index.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "area/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "area/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "area/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "de8ec1542136a920",
   "lastOpenFiles": [
-    "index.md",
+    "reglamento/index.md",
     "area/index.md",
+    "assets/images/principal.jpeg",
+    "index.md",
+    "reglamento/no-mascotas.md",
     "assets/images/307776033_617971676700504_5518791648289933061_n.jpg",
     "assets/images/pull_out.drawioer.png",
-    "reglamento/index.md",
-    "reglamento/no-mascotas.md",
     "departamentos/9PB.md",
     "departamentos/10PB.md",
     "departamentos/10PA.md",
