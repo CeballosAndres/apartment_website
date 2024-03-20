@@ -1,0 +1,5 @@
+---
+layout: base
+---
+<p>I am a nested layout</p>
+<%= @content %>

@@ -1,6 +1,6 @@
 ---
 title: Home blog
-layout: base
+layout: apartments
 ---
+Text
 
-Home bloggg

@@ -1,8 +1,6 @@
 <footer class="bg-white rounded-lg shadow dark:bg-gray-900 m-4">
     <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
-<!--         <div class="sm:flex sm:items-center sm:justify-between"> -->
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7540.27285163848!2d-104.33743001161649!3d19.101670066800295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8424d67e66676589%3A0xd8b27440ecfde63b!2sDepartamentos%20C%20V%20Manzanillo!5e0!3m2!1sen!2smx!4v1709859669072!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
-<!-- </div> -->
+          <iframe class="w-full pb-3" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7540.27285163848!2d-104.33743001161649!3d19.101670066800295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8424d67e66676589%3A0xd8b27440ecfde63b!2sDepartamentos%20C%20V%20Manzanillo!5e0!3m2!1sen!2smx!4v1709859669072!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="sm:flex sm:items-center sm:justify-between">
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                 <li>
