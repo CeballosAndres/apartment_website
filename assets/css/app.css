@@ -1,15 +1,27 @@
 @import "tailwindcss/base";
+
 @layer base {
-  h2 {
-    @apply mb-4 text-2xl font-bold tracking-tight text-gray-900 lg:font-extrabold lg:text-4xl lg:leading-snug dark:text-white lg:text-center 2xl:px-48
+  h1 {
+    @apply mb-4 text-3xl font-bold tracking-tight text-gray-900 lg:font-extrabold lg:text-5xl lg:leading-snug dark:text-white lg:text-center 2xl:px-48
   }
+
+  h2 {
+    @apply mb-4 mt-3 text-2xl font-bold tracking-tight text-gray-900 lg:font-extrabold lg:text-4xl lg:leading-snug dark:text-white lg:text-center 2xl:px-48
+  }
+
   p {
     @apply mb-4 text-lg font-normal text-gray-500 dark:text-gray-400 lg:text-center lg:text-xl xl:px-60
   }
+
   ol {
     @apply list-decimal pl-4 mb-1 text-lg font-normal text-gray-500 dark:text-gray-400 lg:text-center lg:text-xl xl:px-60
   }
+
+  img {
+    @apply my-6
+  }
+
 }
+
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-

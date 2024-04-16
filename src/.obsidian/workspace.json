@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41fba1e21b2631c3",
+        "id": "73877cc0ee1936b0",
         "type": "tabs",
         "children": [
           {
-            "id": "de8ec1542136a920",
+            "id": "5560df3640194a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
+                "file": "departamentos/9PB.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "departamentos/9PB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "departamentos/9PB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "departamentos/9PB.md"
               }
             }
           }
@@ -146,21 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de8ec1542136a920",
+  "active": "5560df3640194a14",
   "lastOpenFiles": [
+    "departamentos/9PA.md",
     "reglamento/index.md",
-    "area/index.md",
-    "assets/images/principal.jpeg",
-    "index.md",
-    "reglamento/no-mascotas.md",
-    "assets/images/307776033_617971676700504_5518791648289933061_n.jpg",
-    "assets/images/pull_out.drawioer.png",
     "departamentos/9PB.md",
     "departamentos/10PB.md",
     "departamentos/10PA.md",
-    "area/acceso-playa.md",
-    "departamentos/9PA.md",
     "departamentos/index.md",
+    "assets/images/main.jpeg",
+    "index.md",
+    "assets/images/9PB/3.JPG",
+    "assets/images/9PB/4.JPG",
+    "assets/images/9PB/2.JPG",
+    "assets/images/9PB/1.JPG",
+    "assets/images/9PB/16.JPG",
+    "assets/images/9PB/15.JPG",
+    "assets/images/9PB/13.JPG",
+    "assets/images/9PB/14.JPG",
+    "assets/images/9PB/12.JPG",
+    "assets/images/9PB",
+    "assets/images/untitled folder",
+    "area/index.md",
+    "reglamento/no-mascotas.md",
+    "area/acceso-playa.md",
     "reglamento",
     "area",
     "departamentos/blog/2/index.html",
@@ -169,16 +178,13 @@
     "departamentos/blog/2",
     "departamentos/blog/1",
     "departamentos/blog",
-    "departamentos/index.md~",
     "departamentos/2.md",
     "departamentos/1.md",
-    "departamentos",
     "blog/index.md",
     "blog/2.md",
     "blog/1.md",
     "blog/bye.md",
     "hello.md",
-    "pull_out.drawioer.png",
     "bye.md"
   ]
 }

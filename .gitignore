@@ -27,3 +27,4 @@ apartment_website-*.tar
 /_site/
 /node_modules/
 /src/.obsidian/
+.DS_Store
